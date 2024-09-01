@@ -36,3 +36,7 @@ Our Services will help you reach new customers and improve your user satisfactio
 - Simple & Free
 
   - We are offering our services for lowest price, without any extra charges. We ensure to keep our services cheapest even in future. Our clients are valuable for us, **we don't sell but we build trust**
+
+## Account Deletion
+
+Feel free to delete your account anytime. In order to delete your account give us a call at 702-702-8480 or email us at care@developbharat.com. Currently we haven't automated this process yet. But soon in future you will receive an option in app to delete your account.

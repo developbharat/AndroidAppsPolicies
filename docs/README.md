@@ -4,3 +4,4 @@
 
 - [CleanDroid](/cleandroid/)
 - [Mices](/mices/)
+- [SocialElection](/socialelection/)
