@@ -5,3 +5,6 @@
 - [CleanDroid](/cleandroid/)
   - [Home](/cleandroid/home)
   - [Privacy Policy](/cleandroid/privacy-policy)
+- [SocialElection](/socialelection/)
+  - [Home](/socialelection/home)
+  - [Privacy Policy](/socialelection/privacy-policy)
